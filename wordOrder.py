@@ -18,7 +18,6 @@ def order(sentence):
 
     return result
 
-
 order("fo3r i2s Thi1s m4e")
 
 # Result when called above on line 22, is "Thi1s i2s fo3r m4e".
